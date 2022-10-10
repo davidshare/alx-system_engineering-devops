@@ -10,4 +10,5 @@
 8. [file 7-file](./7-file) - A shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 9. [file 8-cwd_state](./8-cwd_state) - A script that writes into the file ls_cwd_content the result of the command ls -la. If ls_cd_content doesn't exist, it creates it. If it does, it overwrites it.
 10. [file 9-duplicate_last_line](./9-duplicate_last_line) - A script that duplicates the last line of the file iacta.
-11. [file 10-no_more_js](./10-no_more_js) - script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+11. [file 10-no_more_js](./10-no_more_js) - A script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+12. [file 11-directories](./11-directories)- A script that counts the number of directories and sub-directories in the current directory.
