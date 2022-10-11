@@ -20,3 +20,4 @@
 18. [file 17-hidethisword](./17-hidethisword) - Script to display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 19. [file 18-letteronly](./18-letteronly) - Script to display all lines of the file /etc/ssh/sshd_config starting with a letter.
 20. [file 19-AZ](./19-AZ) - A script to replace all characters A and c from input to Z and e respectively.
+21. [file 20-hiago](./20-hiago) - A script to remove removes all letters c and C from input.
