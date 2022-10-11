@@ -23,3 +23,4 @@
 21. [file 20-hiago](./20-hiago) - A script to remove removes all letters c and C from input.
 22. [file 21-reverse](./21-reverse) - A script that reverses its input
 23. [file 22-users_and_homes](./22-users_and_homes) - A script that displays all users and their home directories, sorted by users.
+24. [file 100-empty_casks](./100-empty_casks) - A script that finds all empty files and directories in the current directory and all sub-directories.
