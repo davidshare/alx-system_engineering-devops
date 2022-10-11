@@ -8,3 +8,4 @@
 7. [file 6-create_local_variable](./6-create_local_variable) - Script to create local variable.
 8. [file 7-create_global_variable](./7-create_global_variable) - Script to create global variable.
 9. [file 8-true_knowledge](./8-true_knowledge) - Script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+10. [file 9-divide_and_rule](./9-divide_and_rule) - Script that performs division operation.
