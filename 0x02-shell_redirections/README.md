@@ -18,4 +18,5 @@
 16. [file 15-countthatword](./15-countthatword) - Script to display the number of lines that contain the pattern “bin” in the file /etc/passwd.
 17. [file 16-whatsnext](./16-whatsnext) - Script to display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 18. [file 17-hidethisword](./17-hidethisword) - Script to display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
-19. [file 18-letteronly](./18-letteronly) - Script to display all lines of the file /etc/ssh/sshd_config starting with a letter."
+19. [file 18-letteronly](./18-letteronly) - Script to display all lines of the file /etc/ssh/sshd_config starting with a letter.
+20. [file 19-AZ](./19-AZ) - A script to replace all characters A and c from input to Z and e respectively.
