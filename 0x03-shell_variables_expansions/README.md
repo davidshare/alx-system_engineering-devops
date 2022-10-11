@@ -5,3 +5,4 @@
 4. [file 3-paths](./3-paths) - Script that counts the number of directories in the PATH.
 5. [file 4-global_variables](./4-global_variables) - Script to print all environment variables.
 6. [file 5-local_variables](./5-local_variables) - Script to print all local variables.
+7. [file 6-create_local_variable](./6-create_local_variable) - Script to create local variable.
