@@ -16,3 +16,4 @@
 15. [file 100-decimal_to_hexadecimal](./100-decimal_to_hexadecimal) - A script that converts decimal to hexadecimal.
 16. [file 101-rot13](./101-rot13) - A script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 17. [file 102-odd](./102-odd) - A script that prints every odd line from the input, starting with the first line.
+18. [file 103-water_and_stir](./103-water_and_stir) - Script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
