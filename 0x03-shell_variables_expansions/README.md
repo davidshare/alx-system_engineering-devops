@@ -12,3 +12,4 @@
 11. [file 10-love_exponent_breath](./10-love_exponent_breath) - Script that finds BREATH to the power of LOVE
 12. [file 11-binary_to_decimal](./11-binary_to_decimal) - Script to convert binary to base 10.
 13. [file 12-combinations](./12-combinations) - Script that prints all possible combinations of two letters, except oo.
+14. [file 13-print_float)(./13-print_float) - A script that prints a number with two decimal places, followed by a new line.
