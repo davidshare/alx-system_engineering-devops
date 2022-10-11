@@ -4,3 +4,4 @@
 3. [file 2-path](./2-path) - Script to add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 4. [file 3-paths](./3-paths) - Script that counts the number of directories in the PATH.
 5. [file 4-global_variables](./4-global_variables) - Script to print all environment variables.
+6. [file 5-local_variables](./5-local_variables) - Script to print all local variables.
