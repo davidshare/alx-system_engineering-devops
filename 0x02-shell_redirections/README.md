@@ -26,3 +26,4 @@
 24. [file 100-empty_casks](./100-empty_casks) - A script that finds all empty files and directories in the current directory and all sub-directories.
 25. [file 101-gifs](./101-gifs) - A script to list all gifs
 26. [file 102-acrostic](./102-acrostic) - A script that decodes acrostics that use the first letter of each line.
+27. [file 103-the_biggest_fan](./103-the_biggest_fan) - A script that parses CSV file and checks for highest occuring ips
