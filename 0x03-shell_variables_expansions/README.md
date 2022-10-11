@@ -13,3 +13,4 @@
 12. [file 11-binary_to_decimal](./11-binary_to_decimal) - Script to convert binary to base 10.
 13. [file 12-combinations](./12-combinations) - Script that prints all possible combinations of two letters, except oo.
 14. [file 13-print_float)(./13-print_float) - A script that prints a number with two decimal places, followed by a new line.
+15. [file 100-decimal_to_hexadecimal](./100-decimal_to_hexadecimal) - A script that converts decimal to hexadecimal.
